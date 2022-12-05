@@ -28,4 +28,4 @@ make a ticket at https://discord.gg/devrp for help
 ### License
 dev-phone - by NuketheWhales7
 
-Copyright (C) 2015-2020 NuketheWhales7
+Copyright (C) 2015-2025 NuketheWhales7
